@@ -1,0 +1,23 @@
+body {
+    background-image: url(../null.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 10px;
+}
+.mainform{
+    background-color: azure;
+    text-align: center;
+    width: 200px;
+    margin-left: 670px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-style: ridge;
+    
+
+}
+h2{
+    text-align: center;
+    color: azure;
+    padding-top: 50px;
+}
